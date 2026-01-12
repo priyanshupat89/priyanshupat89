@@ -21,7 +21,7 @@
   <li>🎓 <b>B.Tech in Artificial Intelligence & Data Science — Completed</b><br/>
       SISTec GN, Bhopal | <b>CGPA: 8.32</b></li>
   <br/>
-  <li>🎓 <b>Currently pursuing M.Tech in Artificial Intelligence & Data Science</b><br/>
+  <li>🎓 <b>Currently pursuing M.Tech in Computer Science and Engineering</b><br/>
       Focused on advanced AI research, ML systems, and real-world applications</li>
   <br/>
   <li>🧪 <b>Junior Research Fellow</b> working on AI-driven healthcare systems</li>
