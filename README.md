@@ -6,7 +6,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=M.Tech+Scholar+in+Artificial+Intelligence+%26+Data+Science;B.Tech+AI+%26+DS+Graduate;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Django+%7C+Power+BI+%7C+OpenCV;AI+Researcher+%7C+Problem+Solver;Open+Source+Contributor+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=M.Tech+Scholar+in+Computer Science & Engineering.
+;B.Tech+AI+%26+DS+Graduate;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Django+%7C+Power+BI+%7C+OpenCV;AI+Researcher+%7C+Problem+Solver;Open+Source+Contributor+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
