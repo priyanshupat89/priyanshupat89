@@ -104,17 +104,6 @@ Eliva Press (USA)
 
 ---
 
-## 🧪 Current Research Focus
-
-- 🧬 DNA-Based Disease Prediction using Machine Learning  
-- 🔗 Blockchain-enabled Electronic Health Record (EHR) Systems  
-- 💊 AI-Based Personalized Medication Recommendation  
-- 🤖 Deep Learning in Healthcare Diagnostics  
-- 🧪 Bioinformatics using FASTA DNA Sequence Data  
-- 🏥 AI for Smart Healthcare Applications  
-
----
-
 
 # 🚀 Featured Projects
 
@@ -229,18 +218,6 @@ Eliva Press (USA)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=priyanshupat89&theme=algolia&margin-w=15&no-bg=true" />
 </p>
-
----
-
-# 🎯 Current Focus
-
-- 🧬 DNA Sequence Analysis using AI
-- 🔬 Healthcare AI Research
-- 🤖 Deep Learning Applications
-- 🔗 Blockchain-based EHR Systems
-- 📄 Research Publications & Innovation
-
----
 
 # 🎨 Hobbies
 
