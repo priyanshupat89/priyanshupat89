@@ -56,6 +56,65 @@
 - 🚀 Worked on deployment and real-time analytics
 
 ---
+---
+
+# 📖 Publications & Research
+
+## 📄 Computational Intelligence in DNA Sequence Analysis: A Critical Review
+
+📍 **Presented At:**  
+1st International Conference on Intelligent Technologies for a Sustainable and Inclusive Future (**ICITSIF 2026**)
+
+🏛 **Organized By:**  
+Indian Institute of Technology (**IIT Indore**), Madhya Pradesh, India
+
+🧬 **Research Areas:**  
+- Artificial Intelligence  
+- Bioinformatics  
+- DNA Sequence Analysis  
+- Machine Learning  
+- Computational Intelligence  
+
+🌟 This research focuses on advanced computational intelligence techniques for DNA sequence analysis and explores the role of Machine Learning and Artificial Intelligence in solving complex biological and healthcare challenges.
+
+---
+
+## 📘 DNA in the Age of Artificial Intelligence: From Biology to Smart Healthcare
+
+📖 **Book Publication — 2026**
+
+🏛 **Publisher:**  
+Eliva Press (USA)
+
+🧬 **Domains Covered:**  
+- Artificial Intelligence in Healthcare  
+- Computational Biology  
+- Bioinformatics  
+- Smart Healthcare Systems  
+- DNA-Based Disease Prediction  
+- AI-Driven Medical Technologies  
+
+🌍 This book explores the transformative role of Artificial Intelligence in modern biology and healthcare systems, covering intelligent disease prediction, bioinformatics applications, smart healthcare frameworks, and future AI-driven medical innovations.
+
+🛒 **Available on Amazon:**  
+
+<a href="https://amzn.eu/d/02vxFGho">
+  <img src="https://img.shields.io/badge/View_Book_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+</a>
+
+---
+
+## 🧪 Current Research Focus
+
+- 🧬 DNA-Based Disease Prediction using Machine Learning  
+- 🔗 Blockchain-enabled Electronic Health Record (EHR) Systems  
+- 💊 AI-Based Personalized Medication Recommendation  
+- 🤖 Deep Learning in Healthcare Diagnostics  
+- 🧪 Bioinformatics using FASTA DNA Sequence Data  
+- 🏥 AI for Smart Healthcare Applications  
+
+---
+
 
 # 🚀 Featured Projects
 
