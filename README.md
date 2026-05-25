@@ -30,7 +30,6 @@ priyanshu = {
     "education"  : ["M.Tech CSE (pursuing)", "B.Tech AI & Data Science ✓"],
     "research"   : ["DNA-Based Disease Prediction", "Blockchain EHR Systems", "Healthcare AI"],
     "published"  : True,
-    "rank"       : "1st — 6th Semester, SISTec GN",
     "open_to"    : ["Research Collaborations", "Open Source", "AI Projects"],
 }
 ```
