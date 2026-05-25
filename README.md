@@ -1,258 +1,110 @@
-<h1 align="center">
-  ✨ Hi, I'm <span style="color:#00E6FE;">Priyanshu Pathekar</span> 👋
-</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 AI Researcher | Full-Stack Django Developer | Machine Learning Engineer
-</h3>
+# Priyanshu Pathekar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;M.Tech+Scholar+in+Computer+Science;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Bioinformatics+%7C+Healthcare+AI+Researcher;Django+Developer+%7C+Power+BI+Analyst;Building+AI+Solutions+for+Real+World+Problems+🚀" />
-</p>
+**AI Researcher · ML Engineer · Bioinformatics · Healthcare AI · Django Developer · Published Author**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshupat89&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-priyanshupathekar.vercel.app-000?style=flat-square&logo=vercel)](https://priyanshupathekar.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/priyanshu-pathekar-b94865288/)
+[![Gmail](https://img.shields.io/badge/Email-pathekarpriyanshu@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pathekarpriyanshu@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-RGPVUpdate-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@RGPVUpdate)
 
----
+📍 Bhopal, Madhya Pradesh, India
 
-# 🌟 About Me
-
-🎓 B.Tech Graduate in **Artificial Intelligence & Data Science**  
-📚 Currently pursuing **M.Tech in Computer Science Engineering**  
-🧪 Junior Research Fellow working on **AI-driven Healthcare Systems**  
-💡 Passionate about **Machine Learning, Bioinformatics, NLP, Deep Learning & Computer Vision**  
-🚀 Building impactful AI solutions for healthcare and real-world applications  
+</div>
 
 ---
 
-# 💼 Professional Experience
+## About
 
-## 🧪 Junior Research Fellow (JRF)
-📍 SISTec GN, Bhopal  
-📅 Aug 2025 – Present
+B.Tech graduate in **AI & Data Science**, currently pursuing **M.Tech in Computer Science Engineering** at SISTec GN, Bhopal. Working as a **Junior Research Fellow** on AI-driven healthcare systems — specifically DNA-based disease identification using machine learning and blockchain-enabled EHR systems.
 
-### 🔬 Research Project
-**Public Domain EHR System for DNA-Based Disease Identification using Machine Learning**
-
-### Key Contributions
-- 🧬 Developed DNA-based disease prediction models
-- 💊 Worked on personalized medication recommendation systems
-- 🔗 Researching Blockchain-enabled EHR systems
-- 📄 Preparing technical papers and research documentation
-- 📊 Performing dataset analysis and AI experimentation
+My work sits at the intersection of **bioinformatics, deep learning, and real-world health applications**. I also build full-stack web applications using Django and develop data visualization dashboards with Power BI.
 
 ---
 
-## 💻 Machine Learning Intern
-📍 Prudent Systems Pvt. Ltd., Bhopal  
-📅 June 2024 – Feb 2025
+## Experience
 
-### Responsibilities
-- 🤖 Built Machine Learning models and APIs
-- 📊 Dataset annotation using Roboflow
-- 🌐 Developed Django-based full-stack applications
-- 📈 Created business dashboards using Power BI
-- 🚀 Worked on deployment and real-time analytics
+**Junior Research Fellow (JRF)** — SISTec GN, Bhopal *(Aug 2025 – Present)*
+> Project: *Public Domain EHR System for DNA-Based Disease Identification using Machine Learning*
+- DNA-based disease prediction models
+- Personalized medication recommendation systems
+- Blockchain-enabled EHR research
 
----
----
-
-# 📖 Publications & Research
-
-## 📄 Computational Intelligence in DNA Sequence Analysis: A Critical Review
-
-📍 **Presented At:**  
-1st International Conference on Intelligent Technologies for a Sustainable and Inclusive Future (**ICITSIF 2026**)
-
-🏛 **Organized By:**  
-Indian Institute of Technology (**IIT Indore**), Madhya Pradesh, India
-
-🧬 **Research Areas:**  
-- Artificial Intelligence  
-- Bioinformatics  
-- DNA Sequence Analysis  
-- Machine Learning  
-- Computational Intelligence  
-
-🌟 This research focuses on advanced computational intelligence techniques for DNA sequence analysis and explores the role of Machine Learning and Artificial Intelligence in solving complex biological and healthcare challenges.
+**Machine Learning Intern** — Prudent Systems Pvt. Ltd., Bhopal *(Jun 2024 – Feb 2025)*
+- Built and deployed ML models and APIs
+- Dataset annotation using Roboflow
+- Django full-stack applications and Power BI dashboards
 
 ---
 
-## 📘 DNA in the Age of Artificial Intelligence: From Biology to Smart Healthcare
+## Publications
 
-📖 **Book Publication — 2026**
+**📄 Computational Intelligence in DNA Sequence Analysis: A Critical Review**
+*1st International Conference on Intelligent Technologies for a Sustainable and Inclusive Future (ICITSIF 2026) — IIT Indore*
 
-🏛 **Publisher:**  
-Eliva Press (USA)
-
-🧬 **Domains Covered:**  
-- Artificial Intelligence in Healthcare  
-- Computational Biology  
-- Bioinformatics  
-- Smart Healthcare Systems  
-- DNA-Based Disease Prediction  
-- AI-Driven Medical Technologies  
-
-🌍 This book explores the transformative role of Artificial Intelligence in modern biology and healthcare systems, covering intelligent disease prediction, bioinformatics applications, smart healthcare frameworks, and future AI-driven medical innovations.
-
-🛒 **Available on Amazon:**  
-
-<a href="https://amzn.eu/d/02vxFGho">
-  <img src="https://img.shields.io/badge/View_Book_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
-</a>
+**📘 DNA in the Age of Artificial Intelligence: From Biology to Smart Healthcare**
+*Book — Eliva Press (USA), 2026*
+[![View on Amazon](https://img.shields.io/badge/View_on_Amazon-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://amzn.eu/d/02vxFGho)
 
 ---
 
+## Featured Projects
 
-# 🚀 Featured Projects
-
-## 🎥 YouTube Video Analysis by Link
-🔹 NLP-based YouTube comment sentiment analysis system
-
-### ⚙️ Tech Stack
-`Python` `Django` `NLP` `Web Scraping`
-
-🔗 Repository  
-<a href="https://github.com/priyanshupat89/YouTube_Video_Analysis_By_Link_Using_NLP">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
+| Project | Description | Stack |
+|---|---|---|
+| [YouTube Video Analysis](https://github.com/priyanshupat89/YouTube_Video_Analysis_By_Link_Using_NLP) | NLP-based comment sentiment analysis | Python, Django, NLP |
+| [Cardiac Arrest Detection](https://github.com/priyanshupat89/Cardiac_Arrest_Disease_Detection_Using_MRI_Images.) | Deep learning for MRI-based disease detection | TensorFlow, CNN, OpenCV |
+| [Mobile Price Prediction](https://github.com/priyanshupat89/Mobile_Price_Range_Prediction_Using_ML) | ML model for price range classification | Python, Scikit-learn |
+| [E-Commerce Sales Dashboard](https://github.com/priyanshupat89/Madhav_Ecommercs_Store_PowerBI_Dashboard) | Interactive business analytics dashboard | Power BI |
 
 ---
 
-## ❤️ Cardiac Arrest Detection using MRI
-🔹 Deep learning system for MRI-based disease detection
+## Tech Stack
 
-### ⚙️ Tech Stack
-`TensorFlow` `CNN` `OpenCV` `Python`
+**Languages & Frameworks**
+`Python` `Django` `HTML` `CSS` `JavaScript`
 
-🔗 Repository  
-<a href="https://github.com/priyanshupat89/Cardiac_Arrest_Disease_Detection_Using_MRI_Images..git">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
+**AI / ML / DL**
+`TensorFlow` `Keras` `Scikit-learn` `OpenCV` `YOLOv8` `NLP`
 
----
+**Data & BI**
+`Power BI` `Pandas` `NumPy` `Roboflow`
 
-## 📊 Madhav E-Commerce Sales Dashboard
-🔹 Interactive dashboard for business analytics
-
-### ⚙️ Tech Stack
-`Power BI`
-
-🔗 Repository  
-<a href="https://github.com/priyanshupat89/Madhav_Ecommercs_Store_PowerBI_Dashboard">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
+**Tools**
+`Git` `GitHub` `VS Code` `Jupyter`
 
 ---
 
-## 📱 Mobile Price Prediction System
-🔹 ML model for predicting mobile phone price ranges
+## Achievements
 
-### ⚙️ Tech Stack
-`Machine Learning` `Python`
-
-🔗 Repository  
-<a href="https://github.com/priyanshupat89/Mobile_Price_Range_Prediction_Using_ML.git">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-# 🛠 Tech Stack
-
-## 👨‍💻 Languages & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,tensorflow,git,github,vscode"/>
-</p>
-
----
-
-## 🤖 AI & Data Science
-
-<p>
-<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep_Learning-0A192F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
----
-
-# 🏆 Achievements & Certifications
-
-- 🥇 1st Rank in 6th Semester — SISTec GN
-- 🏅 Participated in ML Model Matchup Competition
+- 🥇 1st Rank — 6th Semester, SISTec GN
+- 🏅 ML Model Matchup Competition — Participant
 - 📚 Computer Vision Course — IIT Delhi
 - 🧪 Machine Learning Workshop — MANIT Bhopal
 - 🌐 IoT Workshop — SISTec
 
 ---
 
-# 📚 Research Interests
+## GitHub Stats
 
-🧬 Bioinformatics  
-🤖 Artificial Intelligence  
-🧠 Deep Learning  
-💬 Natural Language Processing  
-👁️ Computer Vision  
-🏥 Healthcare AI  
-🔗 Blockchain in Healthcare  
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshupat89&show_icons=true&theme=default&hide_border=true&bg_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupat89&layout=compact&theme=default&hide_border=true&bg_color=ffffff)
 
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyanshupat89&show_icons=true&theme=tokyonight" />
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshupat89&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshupat89&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshupat89&theme=algolia&margin-w=15&no-bg=true" />
-</p>
-
-# 🎨 Hobbies
-
-🎵 Music  
-🏸 Badminton  
-✈️ Traveling  
-🎨 Drawing & Sketching  
+</div>
 
 ---
 
-# 📬 Connect With Me
+## Research Interests
 
-<p align="center">
-
-<a href="https://linkedin.com/in/priyanshu-pathekar-b94865288">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:pathekarpriyanshu@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/priyanshupat89">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.youtube.com/@RGPVUpdate">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
-</a>
-
-</p>
+Bioinformatics · Healthcare AI · Deep Learning · NLP · Computer Vision · Blockchain in Healthcare
 
 ---
 
-<h3 align="center">
-✨ “Code with clarity. Research with curiosity. Build with purpose.” ✨
-</h3>
+<div align="center">
 
+*"Code with clarity. Research with curiosity. Build with purpose."*
+
+</div>
