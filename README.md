@@ -17,7 +17,7 @@
 
 ## About
 
-AI and Data Science graduate (B.Tech, CGPA 8.32) now pursuing an **M.Tech in Computer Science Engineering (Cyber Security)**. As a **Junior Research Fellow at SISTec**, I build machine learning models for DNA-based disease prediction and personalized medication recommendation as part of a public-domain Electronic Health Record (EHR) research project. Before that, I worked as a **Machine Learning Intern at Prudent System Pvt. Ltd.**, preparing and annotating datasets, building Django-based APIs and turning data into Power BI reports.
+AI and Data Science graduate (B.Tech, CGPA 8.32) now pursuing an **M.Tech in Computer Science Engineering**. As a **Junior Research Fellow at SISTec**, I build machine learning models for DNA-based disease prediction and personalized medication recommendation as part of a public-domain Electronic Health Record (EHR) research project. Before that, I worked as a **Machine Learning Intern at Prudent System Pvt. Ltd.**, preparing and annotating datasets, building Django-based APIs and turning data into Power BI reports.
 
 I focus on **practical AI solutions to real-world problems**: deep learning for medical and visual data, NLP, genomic analysis and intelligent security systems. My work has been published in conference proceedings and in two books on AI.
 
