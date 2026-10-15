@@ -79,13 +79,6 @@ I focus on **practical AI solutions to real-world problems**: deep learning for 
 
 ## Featured Projects
 
-### DNA Sequence Classification for Genomic Healthcare
-**Problem:** Analysing raw genomic sequences for disease identification is slow and hard to reproduce.
-**Approach:** A research workflow covering FASTA input and validation, GC-content analysis, k-mer feature extraction and ML/DL experiments. Part of my ongoing JRF research.
-**Stack:** `Python` `Bioinformatics` `Django` `Machine Learning` `Deep Learning`
-**Status:** Ongoing research. No performance figures published yet.
-**Links:** [Repository](https://github.com/priyanshupat89/REPLACE-WITH-REPO-NAME) · [Live demo](https://YOUR-PORTFOLIO-URL)
-
 ### SpiceVision: Hybrid Deep Learning for Spice Identification
 **Problem:** Many spices look alike, which makes fine-grained visual classification hard.
 **Approach:** Hybrid classifier for 20 spice categories using a frozen EfficientNetB3 backbone, CBAM attention and multi-scale feature fusion.
@@ -124,8 +117,6 @@ Interactive in-browser demos of 15 projects are available in the Project Lab of 
 | **Published (book)** | *DNA in the Age of Artificial Intelligence: From Biology to Smart Healthcare*, Eliva Press, 2026. ISBN 978-99993-4-091-5. [Amazon](https://a.co/d/071IVSoQ) |
 | **Published (book, co-author)** | *Artificial Intelligence: A Beginner's Guide*, Technical Press, 2026. ISBN 978-81-69069-63-2. [Amazon](https://www.amazon.in/dp/8169069637) |
 | **Presented** | *From Sequence to Diagnosis: A Comprehensive Review of AI-Driven Disease Identification from FASTA-Formatted DNA Sequences Using Machine Learning*, oral presentation at ICDMB 2026, MANIT Bhopal (October 2026) |
-| **Ongoing** | Public-domain EHR application for DNA-based disease identification and medication using machine learning (JRF project, SISTec) |
-| **Ongoing** | Evaluation of ML/DL classifiers for network intrusion detection on CICIDS2017, CIC-IDS2018 and CICDDoS2019 |
 
 ## Professional Experience
 
@@ -144,7 +135,7 @@ Interactive in-browser demos of 15 projects are available in the Project Lab of 
 
 | Period | Qualification |
 |---|---|
-| 2025 to present | **M.Tech, Computer Science Engineering (Cyber Security)**, SISTec Gandhi Nagar · CGPA 8.06 / 10 |
+| 2025 to present | **M.Tech, Computer Science Engineering**, SISTec Gandhi Nagar · CGPA 8.06 / 10 |
 | 2021 to 2025 | **B.Tech, Artificial Intelligence and Data Science**, SISTec Gandhi Nagar · CGPA 8.32 / 10 |
 
 **Achievements:** conference paper published with DOI (ICITSIF 2026) · oral presentation at ICDMB 2026 · author of two published books on AI · presented a working model at the NIRMAAN 2024 national tech skill expo
