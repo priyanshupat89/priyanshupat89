@@ -180,7 +180,7 @@ I am open to **AI/ML engineering, data science and research engineering roles**,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-priyanshu--pathekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-pathekar-b94865288)
 [![GitHub](https://img.shields.io/badge/GitHub-priyanshupat89-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanshupat89)
 [![Email](https://img.shields.io/badge/Email-priyanshupathekar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshupathekar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mrpriyanshupathekarportfolio.vercel.app/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="" width="100%" />
