@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-pathekar-b94865288)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:priyanshupathekar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://mrpriyanshupathekarportfolio.vercel.app/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
 
 </div>
